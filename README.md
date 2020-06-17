@@ -5,6 +5,6 @@ A entrega irá consistir em um relatório sobre o dataset, com os resultados (pr
 Classifique os dados (lembre de separar entre treino e teste). Por fim, exiba a acurácia do modelo.
 
 Acesso em: https://colab.research.google.com/drive/15NhE-LKjKoP4ETodHc-tE30H6G9xZCp5?userstoinvite=051143%40aluno.uricer.edu.br&actionButton=1#scrollTo=NUEyQtpef24v&uniqifier=1
---------------------
 
+--------------------
 ![](https://github.com/jacksonn455/Trabalho2IA/blob/master/img.png)
