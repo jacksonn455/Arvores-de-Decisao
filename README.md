@@ -12,7 +12,6 @@ A entrega irá consistir em um relatório sobre o dataset, com os resultados (pr
 Classifique os dados (lembre de separar entre treino e teste). Por fim, exiba a acurácia do modelo.
 
 Acesso aqui no diretório: [Aqui](https://github.com/jacksonn455/TrabSimulacao/blob/master/relatorio.pdf)
- ![](https://github.com/jacksonn455/TrabSimulacao/blob/master/images.png)
  
 Acesso no Colab: [Aqui](https://colab.research.google.com/drive/15NhE-LKjKoP4ETodHc-tE30H6G9xZCp5?userstoinvite=051143%40aluno.uricer.edu.br&actionButton=1#scrollTo=ou4fyhEsZQCB&uniqifier=1)
 
