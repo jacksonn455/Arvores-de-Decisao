@@ -1,4 +1,4 @@
-Classificação por KNN no Colab
+Classificação
 ===============================================
 
 ## Autores
