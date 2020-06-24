@@ -1,4 +1,4 @@
-Classificação
+Classificação por Árvores de Decisão
 ===============================================
 
 ## Autores
